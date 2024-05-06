@@ -1,0 +1,15 @@
+.first-class, .second-class, .final-class  {
+    background-color: rgb(253, 150, 150);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#first-id {
+    font-size: 30px;
+    color: blue;
+}
+
+#second-id {
+    font-size: 22px;
+    background-color: rgb(105, 251, 144);
+    font-weight: bolder;
+}
